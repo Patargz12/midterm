@@ -10,7 +10,7 @@
 
 <nav class="bg-gray-900 shadow p-4 animate__animated animate__fadeInUp">
     <div class="container mx-auto flex justify-between items-center">
-        <a class="text-3xl font-bold text-white" href="#">Finalsl Examination</a>
+        <a class="text-3xl font-bold text-white" href="#">Finalsl Examination Gaming Lesgooooo!!</a>
         <button class="lg:hidden block text-white">
             <i class="bi bi-list"></i>
         </button>
